@@ -1,0 +1,17 @@
+<resources>
+    <string-array name="words">
+        <item>CHARGER</item>
+        <item>COMPUTER</item>
+        <item>TABLET</item>
+        <item>SYSTEM</item>
+        <item>APPLICATION</item>
+        <item>INTERNET</item>
+        <item>STYLUS</item>
+        <item>ANDROID</item>
+        <item>KEYBOARD</item>
+        <item>SMARTPHONE</item>
+        <item>FOTBOLL</item>
+        <item>ARSENAL</item>
+        <item>APPUTVECKLING</item>
+    </string-array>
+</resources>
